@@ -1,0 +1,10 @@
+{
+  "tests/controller_tests.py::ControllerTests::test_close_whatfix_window": true,
+  "tests/controller_tests.py::ControllerTests::test_t1AddController": true,
+  "tests/login_tests.py::LoginTests::test_t1invalidLogin": true,
+  "tests/login_tests.py::LoginTests::test_t2invalidLogin": true,
+  "tests/login_tests.py::LoginTests::test_t3invalidLogin": true,
+  "tests/login_tests.py::LoginTests::test_t4invalidLogin": true,
+  "tests/login_tests.py::LoginTests::test_t5validLogin": true,
+  "tests/testii.py::ControllerTests::test_t1AddController": true
+}

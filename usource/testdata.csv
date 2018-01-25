@@ -1,0 +1,15 @@
+cloudServer,name,protocal,port,internalNetwork,netmaskBits
+JavaScript for beginners,controller1,UDP,1270,10.12.70.0,16
+Learn Python 3 from scratch,controller2,TCP,1271,10.12.71.0,17
+,controller3,UDP,1272,10.12.72.0,18
+,controller4,TCP,1273,10.12.73.0,19
+,controller5,UDP,1274,10.12.74.0,20
+,controller6,TCP,1275,10.12.75.0,21
+,controller7,UDP,1276,10.12.76.0,22
+,controller8,TCP,1277,10.12.77.0,23
+,controller9,UDP,1278,10.12.78.0,24
+,controller10,TCP,1279,10.12.79.0,25
+,controller11,UDP,1280,10.12.80.0,26
+,controller12,TCP,1281,10.12.81.0,27
+,controller13,UDP,1282,10.12.82.0,28
+,controller14,TCP,1283,10.12.83.0,24

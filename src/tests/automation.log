@@ -1,0 +1,16 @@
+01/01/2018 11:02:17 PM - ControllerPages - getElement - 75 - INFO: Element not found with locator: .//*[@id='port'] and  locatorType: xpath
+01/01/2018 11:02:22 PM - ControllerPages - getElement - 75 - INFO: Element not found with locator: .//*[@id='port'] and  locatorType: xpath
+ts - test_AddMultipleControllers - 40 - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/01/2018 11:02:17 PM - ControllerTests - test_AddMultipleControllers - 38 - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+01/01/2018 11:02:17 PM - ControllerTests - test_AddMultipleControllers - 39 - INFO: test_AddMultiplecontroller start
+01/01/2018 11:02:17 PM - ControllerTests - test_AddMultipleControllers - 40 - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+h
+01/01/2018 11:01:44 PM - LoginPage - sendKeys - 121 - INFO: Sent data on element with locator: .//input[@placeholder='Username'] locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - getElement - 72 - INFO: Element found with locator: .//input[@placeholder='Password'] and  locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - elementClick - 105 - INFO: Clicked on element with locator: .//input[@placeholder='Password'] locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - getElement - 72 - INFO: Element found with locator: .//input[@placeholder='Password'] and  locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - elementClick - 105 - INFO: Clicked on element with locator: .//input[@placeholder='Password'] locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - getElement - 72 - INFO: Element found with locator: .//input[@placeholder='Password'] and  locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - sendKeys - 121 - INFO: Sent data on element with locator: .//input[@placeholder='Password'] locatorType: xpath
+01/01/2018 11:01:44 PM - LoginPage - getElement - 72 - INFO: Element found with locator: .//button[@class='btn theme-purple-btn'] and  locatorType: xpath
+01/01/2018 11:01:45 PM - LoginPage - elementClick - 105 - INFO: Clicked on element with locator: .//button[@class='btn theme-purple-btn'] locatorType: xpath
